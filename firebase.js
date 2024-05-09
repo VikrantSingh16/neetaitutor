@@ -3,7 +3,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";// TODO: Add SDKs for Firebase products that you want to use
 import { getFirestore } from "firebase/firestore";
 const firebaseConfig = {
-  apiKey: process.env.FIREBASE_ENV,
+  apiKey: 'AIzaSyDMi_pc2x_oOhPf0ZADbBNUFWuQsTvmqJ4',
   authDomain: "neet-tutor.firebaseapp.com",
   projectId: "neet-tutor",
   storageBucket: "neet-tutor.appspot.com",

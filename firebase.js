@@ -1,3 +1,4 @@
+require('dotenv').config()
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";// TODO: Add SDKs for Firebase products that you want to use
 import { getFirestore } from "firebase/firestore";
